@@ -32,8 +32,15 @@ NULL
 #
 #'   \item \code{devtools.desc}: a named list listing any other
 #'     extra options to add to \file{DESCRIPTION}
-#'
+#' 
+#' (Most) of the functions of devtools fall within the following families:
 #' }
+#' @family build functions
+#' @family rhub functions
+#' @family doctors
+#' @family example functions
+#' @family package installation
+#' @family path
 #' @docType package
 #' @name devtools
 NULL
