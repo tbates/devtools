@@ -35,12 +35,12 @@ NULL
 #' 
 #' (Most) of the functions of devtools fall within the following families:
 #' }
-#' @family build functions
 #' @family rhub functions
-#' @family doctors
-#' @family example functions
 #' @family package installation
+#' @family build functions
+#' @family example functions
 #' @family path
+#' @family doctors
 #' @docType package
 #' @name devtools
 NULL
